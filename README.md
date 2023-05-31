@@ -12,7 +12,7 @@ Here are some links (feel free to add more):
 ### Express.js / frameworks ##
 *We will need to learn how to build an appropriate backend to run the marketplace*
 
-Seems like express.js should be free and not too bad to learn
+Are API's just a bunch of prewritten functions that you can call??
 
 [Frameworks built using Express.js](https://expressjs.com/en/resources/frameworks.html)
   * [This one](https://itemsapi.com/) looks potentially useful (Items API)
